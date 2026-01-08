@@ -1,0 +1,1 @@
+export const JWT_SECRET=process.env.JWT_SECRET || "evgeryour-256-bit-secret";
